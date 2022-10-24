@@ -1,0 +1,16 @@
+
+obj/
+.vs/
+bin/
+build/
+node_modules/
+*ncrunch*
+*.user
+/src/*debug.log
+/src/Newtonsoft.Json.10.0.3
+/tools/*
+!/tools/nuget.exe
+artifacts/
+logs/
+.vscode/
+Migrations/
